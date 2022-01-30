@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  height: 100%;
+}
+
+#page-title {
+  text-align: center;
+  color: #c43429;
+  margin: 0;
+}
+
+#coffee-list {
+  background-color: azure;
+  line-height: 3rem;
+}
+
+#coffee-list ol {
+  margin: 0;
+}
+
+#coffee-list a {
+  color: black;
+}
+
+header {
+  background-color: paleturquoise;
+  padding: 2rem;
+}
+
+.title {
+  font-family: "Quattrocento", serif;
+}
+
+#coffee-list a:hover {
+  color: goldenrod;
+  font-weight: bolder;
+}
+
+#coffee-list a:active {
+  color: orangered;
+  font-weight: bold;
+}
+
+#coffee-info {
+  margin-left: 12rem;
+}
+
+.blurb {
+  width: 40%;
+  margin: 1rem;
+  float: left;
+}
+
+p {
+  line-height: 1.5rem;
+}
+
+#part2 {
+  clear: left;
+  float: left;
+  margin: 1rem 0 4rem 12rem;
+}
